@@ -1,3 +1,4 @@
+![Cover](./.github/cover.png)
 
 # News Portal
 
