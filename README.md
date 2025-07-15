@@ -1,4 +1,4 @@
-![Cover](./assets/cover.png)
+![Cover](/assets/imagens/cover.png)
 
 # News Portal
 
