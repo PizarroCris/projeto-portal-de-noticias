@@ -57,6 +57,10 @@ section header {
 
 #weekly {
 
+  header {
+    margin-top: 80px;
+  }
+
   &>div {
     grid-template-columns: repeat(4, 292px);
   }
@@ -75,6 +79,7 @@ section header {
 
     p {
       margin-top: 8px;
+      margin-bottom: 80px;
       font-weight: 800;
     }
   }
